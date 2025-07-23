@@ -138,3 +138,31 @@ margin-bottom: 20px;
     margin-top: 30px;
 }
 
+/* plants-lover-section */
+.plants-lover-section{
+   
+    margin-top: 210px;
+    gap: 3.8rem;
+}
+
+.flower-store-parent{
+ position: relative;
+}
+
+.badge img{
+    background: transparent;
+    max-width: 286px;
+    position: absolute;
+    bottom: 450px;
+    left: 350px;
+    
+}
+
+.plants-lover-text h2{
+    font-size: 3.1rem;
+    padding-bottom:20px ;
+}
+.plants-lover-text p{
+    padding-bottom: 20px;
+}
+
